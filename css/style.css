@@ -93,15 +93,16 @@ header a:hover {
   width: auto;
   font-family: Arapey;
   display: block;
+  background-image: url('../images/paperbackground.jpg')
 }
 .content img{
 	width: 90%;
   display: block;
 }
 
-body{
+/* body{
   background-image: url('../images/paperbackground.jpg');
-}
+} */
 
 /* .container-aboutme {
   padding: 60px;
