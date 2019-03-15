@@ -75,6 +75,7 @@ nav a{
   grid-column-end: auto;
   grid-row-start: auto;
   grid-row-end: auto;
+  text-decoration: none;
 }
 
 body a:hover {
@@ -152,4 +153,5 @@ header a:hover {
 } */
 
 /* footer{
+  text-decoration: none;
 } */
